@@ -28,8 +28,6 @@ I’m not trying to keep students busy. I’m trying to make them capable.
 - **Build habits** (Git discipline, docs, basic tests, respectful debugging)
 - **Own your tools** (if AI is used: disclose what it did, what changed, what you understand)
 
-**Grading:** reward clarity/correctness/growth. Penalize copy-paste and “it works on my machine.”
-
 </td>
   </tr>
 </table>
